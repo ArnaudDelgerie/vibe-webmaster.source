@@ -1,0 +1,40 @@
+/* ============================================================
+   CHARTE GRAPHIQUE — Vibe WebMaster
+   Style : sobre et technologique, palette solaire inspirée de Mistral
+   Règles : modifiez les VALEURS, jamais les NOMS des variables.
+   ============================================================ */
+:root {
+  /* --- Couleurs --- */
+  --color-primary: #fa520f;          /* liens, boutons, titres */
+  --color-primary-dark: #d43f0a;     /* survol des liens et boutons */
+  --color-secondary: #e09100;        /* accents, badges, étiquettes (jaune doré foncé, lisible sur crème) */
+  --color-text: #1f1f1f;             /* texte principal */
+  --color-text-muted: #6b6357;      /* descriptions, mentions */
+  --color-background: #faf7f0;       /* fond général (crème chaud) */
+  --color-background-alt: #f3ecdd;   /* bandes de section, cartes */
+  --color-border: #e5dcc8;           /* filets, séparations */
+  --color-focus: #fa520f;            /* contour visible au clavier (accessibilité) */
+
+  /* --- Typographie --- */
+  --font-heading: Georgia, 'Times New Roman', serif; /* titres */
+  --font-body: system-ui, Arial, sans-serif;         /* texte courant */
+  --font-size-body: 17px;       /* taille du texte courant */
+  --line-height: 1.6;           /* interligne */
+  --font-size-heading: 32px;    /* titres de pages */
+  --font-size-subheading: 24px; /* titres de sections */
+  --font-weight-heading: 700;   /* graisse des titres */
+
+  /* --- Densité et espacements --- */
+  --spacing: 24px;      /* base verticale (sections, blocs) */
+  --spacing-sm: 12px;   /* intérieur des cartes, listes */
+  --max-width: 960px;   /* largeur du contenu */
+
+  /* --- Formes et ombres --- */
+  --radius: 8px;        /* arrondi des cartes et boutons */
+  --radius-sm: 4px;     /* petits éléments */
+  --shadow: 0 2px 8px rgba(250, 82, 15, 0.08);         /* cartes, éléments en relief (teintée chaude) */
+  --shadow-strong: 0 6px 18px rgba(250, 82, 15, 0.16); /* survol, mise en avant */
+
+  /* --- Mouvement --- */
+  --animation-duration: 0.2s; /* transitions discrètes, jamais de rebond */
+}
