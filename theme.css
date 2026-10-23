@@ -27,7 +27,7 @@
   /* --- Densité et espacements --- */
   --spacing: 24px;      /* base verticale (sections, blocs) */
   --spacing-sm: 12px;   /* intérieur des cartes, listes */
-  --max-width: 960px;   /* largeur du contenu */
+  --max-width: 1080px;  /* largeur du contenu */
 
   /* --- Formes et ombres --- */
   --radius: 8px;        /* arrondi des cartes et boutons */
