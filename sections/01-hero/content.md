@@ -3,4 +3,4 @@ title: Accueil
 active: true
 ---
 
-Créer gratuitement un site comme ce site, grâce à ce site.
+Créer gratuitement un site ~~comme~~ encore mieux que ce site, grâce à ce site.
