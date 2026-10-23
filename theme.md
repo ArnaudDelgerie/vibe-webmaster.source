@@ -15,6 +15,11 @@ Le bandeau d'accueil porte une seule phrase d'accroche, forte et mystérieuse �
 ## Couleurs et écritures
 Palette solaire inspirée de Mistral sur fond sombre : fond noir profond et chaud, orange vif pour les liens et boutons, touches de jaune doré en accents. Titres nets et modernes (sans serif) qui inspirent confiance, texte courant crème clair, très lisible sur le fond sombre — le contraste reste fort partout, jamais de gris fatigant. Angles peu arrondis, ombres discrètes.
 
+## Responsive
+Le site doit être impeccable sur téléphone comme sur ordinateur, sans priorité marquée.
+- priorité : equilibre
+- raison : le guide se suit aussi bien au téléphone pour une lecture rapide que sur un grand écran pour appliquer les étapes pas à pas.
+
 ## Images
 Les visuels (captures d'écran d'interfaces, schémas) illustrent les étapes du guide sans en être le cœur ; la rapidité du site prime. Profil standard.
 - profil : standard
