@@ -10,7 +10,7 @@ Multi-pages : une page d'accueil qui donne envie (bandeau d'accroche, présentat
 Barre de menu fixe en haut, discrète et transparente à l'arrivée, devenant légèrement opaque au défilement pour rester lisible.
 
 ## Hero
-Le bandeau d'accueil porte une seule phrase d'accroche, forte et mystérieuse — « Créer un site comme ce site grâce à ce site » — sur fond de couleur, sans image, texte centré en grande typographie.
+Le bandeau d'accueil porte une seule phrase d'accroche, forte et mystérieuse — « Créer gratuitement un site comme ce site, grâce à ce site » — sur fond de couleur, sans image, texte centré en grande typographie.
 
 ## Couleurs et écritures
 Palette solaire inspirée de Mistral : orange vif pour les liens et boutons, orange flamme au survol, touches de jaune doré en accents, sur fond crème chaud. Titres nets et modernes qui inspirent confiance, texte courant presque noir, très lisible. Angles peu arrondis, ombres légères et chaleureuses.
